@@ -12,5 +12,5 @@
 ### Goldman Sachs Internal Audit Job Simulation
 - **Provider:** Forage (virtual job simulation)
 - **Completed:** June 2026
-- **Skills practised:** internal audit tasks
+- **Skills practised:** foundations of internal audit, risk assessment in Global Banking & Markets
 - **Certificate:** [View certificate (PDF)](Goldman-Sachs-Internal-Audit-Job-Simulation-Certificate.pdf)
